@@ -40,8 +40,4 @@ Puedes utilizar esta lista en cualquier reproductor compatible con el formato **
 Copia y pega la siguiente URL en tu reproductor para recibir actualizaciones automáticas:
 
 ```url
-[https://raw.githubusercontent.com/CharlieII/IPTV_mexico/main/lista.m3u](https://raw.githubusercontent.com/CharlieII/IPTV_mexico/main/lista.m3u)
-
-Agregar siguiente enlace a tu SmartTV o aplicación de IPTV
-
-> https://raw.githubusercontent.com/CharlieII/IPTV_mexico/refs/heads/main/lista.m3u
+https://raw.githubusercontent.com/CharlieII/IPTV_mexico/refs/heads/main/lista.m3u
