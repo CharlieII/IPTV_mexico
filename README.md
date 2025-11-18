@@ -52,7 +52,7 @@ Mantener la lista actualizada, verificar enlaces caídos y buscar nuevas fuentes
 Copia y pega la siguiente URL en tu reproductor para recibir actualizaciones automáticas:
 
 ```url
-https://raw.githubusercontent.com/CharlieII/IPTV_mexico/refs/heads/main/lista.m3u ```
+https://raw.githubusercontent.com/CharlieII/IPTV_mexico/refs/heads/main/lista.m3u
 
 
 
