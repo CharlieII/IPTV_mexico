@@ -16,6 +16,8 @@
 
 Este repositorio contiene una lista **M3U** curada manualmente con canales de televisión pública y abierta de México y países de habla hispana. El objetivo es facilitar el acceso a contenido cultural, informativo y de entretenimiento que ya se encuentra disponible de manera gratuita en internet.
 
+Es importante mencionar, que la lista _NO CONTIENE CANALES PARA ADULTOS._ Esta lista contiene canales de cultura, entretenimiento general, deportes, peliculas, series y deportes.
+
 > **Nota:** Este proyecto **NO** aloja ningún contenido de video. Solo recopila enlaces públicos proporcionados por las propias emisoras oficiales.
 
 ---
