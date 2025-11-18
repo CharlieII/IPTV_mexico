@@ -36,6 +36,12 @@ Si eres propietario de alguna señal y deseas que sea retirada de esta lista, po
 
 Puedes utilizar esta lista en cualquier reproductor compatible con el formato **.m3u** o **.m3u8** (como VLC, TiviMate, IPTV Smarters, OTT Navigator, Kodi, etc.).
 
+### 🔗 Enlace Directo (Recomendado)
+Copia y pega la siguiente URL en tu reproductor para recibir actualizaciones automáticas:
+
+```url
+https://raw.githubusercontent.com/CharlieII/IPTV_mexico/refs/heads/main/lista.m3u
+```
 ## ☕ Apoya el Proyecto
 
 Mantener la lista actualizada, verificar enlaces caídos y buscar nuevas fuentes oficiales toma tiempo y café. Si te ha sido útil este proyecto y quieres apoyar, ¡será muy bienvenido!
@@ -47,15 +53,3 @@ Mantener la lista actualizada, verificar enlaces caídos y buscar nuevas fuentes
 </div>
 
 <br>
-
-### 🔗 Enlace Directo (Recomendado)
-Copia y pega la siguiente URL en tu reproductor para recibir actualizaciones automáticas:
-
-```url
-https://raw.githubusercontent.com/CharlieII/IPTV_mexico/refs/heads/main/lista.m3u
-
-
-
-
-
-
