@@ -41,3 +41,15 @@ Copia y pega la siguiente URL en tu reproductor para recibir actualizaciones aut
 
 ```url
 https://raw.githubusercontent.com/CharlieII/IPTV_mexico/refs/heads/main/lista.m3u
+
+## ☕ Apoya el Proyecto
+
+Mantener la lista actualizada, verificar enlaces caídos y buscar nuevas fuentes oficiales toma tiempo y café. Si te ha sido útil este proyecto y quieres apoyar, ¡será muy bienvenido!
+
+<div align="center">
+  <a href="https://ko-fi.com/charlieii" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy Me a Coffee at ko-fi.com" height="40">
+  </a>
+</div>
+
+<br>
