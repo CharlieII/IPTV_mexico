@@ -44,6 +44,13 @@ Copia y pega la siguiente URL en tu reproductor para recibir actualizaciones aut
 ```url
 https://raw.githubusercontent.com/CharlieII/IPTV_mexico/refs/heads/main/lista.m3u
 ```
+
+En algunas aplicaciones de IPTV, permite URLs acortadas:
+
+```url
+https://acortar.link/u9BvXb
+```
+
 ## ☕ Apoya el Proyecto
 
 Mantener la lista actualizada, verificar enlaces caídos y buscar nuevas fuentes oficiales toma tiempo y café. Si te ha sido útil este proyecto y quieres apoyar, ¡será muy bienvenido!
