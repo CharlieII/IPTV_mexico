@@ -147,9 +147,13 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Legislativo",Justicia TV
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Cultura",History 2 Latin America Panregional
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+http://clubtv.link/16dici/phpcode/lista0.php?c=19&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Cultura",National Geographic Latin America South (1080p)
 http://38.183.182.166:8000/play/a0vd/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", DISCOVERY CHANNEL
+http://clubtv.link/16dici/phpcode/lista0.php?c=47&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", DISCOVERY TURBO
+http://clubtv.link/16dici/phpcode/lista0.php?c=80&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-id="XHUNESTDT.mx@SD" tvg-logo="https://i.imgur.com/LbZkdca.png" group-title="Cultura",Señal España (XHUNES-TDT) (720p)
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1 tvg-id="TierraMiaTV" tvg-logo="https://i.imgur.com/IdJ5xAO.png" group-title="Cultura",Tierra Mia TV (1080p)
