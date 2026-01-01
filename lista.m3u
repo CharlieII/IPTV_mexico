@@ -6,12 +6,16 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entretenimiento",Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="General;Noticias",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="APlus.mx" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="General",A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General",Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Telemundo Romance
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas (1080p)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Cultura",TV Cuatro 4.1
@@ -82,7 +86,7 @@ https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVT.mx@SD" tvg-logo="https://i.imgur.com/MH8YlfO.png" group-title="General",TVT Tabasco (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
-#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="General",TVMÁS (XHGV-TDT)
+#EXTINF:-1 tvg-id="XHGVTDT.mx@SD" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="General",TVMÁS (XHGV-TDT) (360p) [Not 24/7]
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-id="XHTTGTDT.mx" tvg-logo="https://i.imgur.com/dw6puHC.png" group-title="General",XHTTG-TDT Canal 44
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
@@ -124,10 +128,12 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Noticias",CGTN Spanish
 https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Espanol (1080p)
+#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Noticias;Cultura",DW Espanol (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="Noticias",Estrella News
 https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Noticias",Telemundo Noticias Ahora
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" tvg-logo="https://i.imgur.com/klULxMV.png" group-title="Noticias",CBS News Los Angeles
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/512px-France_24_logo_%282013%29.svg.png" group-title="Noticias",France 24 Español (1080p)
@@ -227,6 +233,8 @@ https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 #EXTINF:-1 tvg-id="EnfoqueDigitalTV.cl" tvg-logo="https://i.imgur.com/GaJzjt5.png" group-title="General;Series",Enfoque Digital TV (1080p)
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Clasicos",Latino Classic TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
 #EXTINF:-1 tvg-id="PancTV.ar" tvg-logo="https://i.imgur.com/u1dnEVv.png" group-title="General;Series;Clasicos",Panc TV
 https://panel.host-live.com:19360/20004/20004.m3u8
 #EXTINF:-1 tvg-id="SanPedroTV.ar" tvg-logo="https://i.imgur.com/UkpXogr.png" group-title="General;Series;Clasicos",San Pedro TV
@@ -243,6 +251,8 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 #EXTINF:-1 tvg-id="SuMundoTV.do" tvg-logo="https://i.imgur.com/twGGfJr.png" group-title="Noticias;General",Su Mundo TV (1080p)
 https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8
+#EXTINF:-1 tvg-id="13Humor.cl@SD" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="Comedia",13 Humor (1080p)
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Comedia",Comedy Central en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
 #EXTINF:-1 tvg-id="AguacateTV.ve" tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="Entretenimiento;Cine",Aguacate TV (1080p)
@@ -255,6 +265,8 @@ https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cde127fb-082c-4bae-bbc8-eb5fcecf263d
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Entretenimiento",EstrellaTV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento",Cops en Español (720p)
+https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Contivision.cl" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="Entretenimiento",Contivision (720p)
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Entretenimiento;Cine",Cosmos TV (720p)
@@ -327,6 +339,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cedbdba-6871-4161-a12d-d20faa66e6b8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine",Cine Clásico
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine",Cine Estrella (1080p)
+https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePremiere.us" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="Cine",Cine Premiere
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e000-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7f04239-fee6-40d2-9e5e-6893a6d330ec
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Cine",Cine Sony (720p)
@@ -353,8 +367,12 @@ https://v4.tustreaming.cl:443/ondadigitaltv/index.m3u8?PlaylistM3UCL
 https://v4.tustreaming.cl:443/odtv2/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine",Rakuten TV Cine Español (1080p)
 https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine",Rakuten TV Sci-Fi Spain
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
 #EXTINF:-1 tvg-id="RuntimeEspanol.us" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Cine",Runtime Espanol
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine",Todo Cine (1080p)
+https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8
 #EXTINF:-1 tvg-id="288" tvg-name="Sicardi TV" tvg-logo="https://cdn.m3u.cl/logo/288_Sicardi_TV.png" group-title="Cine", Sicardi TV | AR
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Septimoarte.us" tvg-logo="https://i.imgur.com/GAIFeP2.png" group-title="Cine",Séptimo arte
@@ -372,12 +390,18 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-id="XtremaAccion.ar@SD" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Cine" http-referrer="https://xtrematv.com/?p=1434",Xtrema Accion
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",Telemundo Accion
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="13T.cl@SD" tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="Series",13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="CSIenespanol.us" tvg-logo="https://i.imgur.com/ifarQil.png" group-title="Series",CSI en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",CSI: Miami en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285534-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f56cc8-59b4-456a-bee7-c5cbe377e506
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",Todo Novelas más Pasiones (1080p)
+https://aegis-cloudfront-1.tubi.video/36a6c30a-f42c-41db-a5de-106a9b067638/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",Televisa Telenovelas
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us@SD" tvg-logo="https://i.imgur.com/9bPcYIN.png" group-title="Series",Telemundo Telenovelas Clasicas SD
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=11274d9c-4f3d-4891-ae2e-08937bcc8bb5
 #EXTINF:-1 tvg-id="BellatorMMA.us@SD" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="Sports",Bellator MMA SD
