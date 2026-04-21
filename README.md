@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/CharlieII/IPTV_mexico/refs/heads/main/lista.m3
 En algunas aplicaciones de IPTV, permite URLs acortadas:
 
 ```url
-https://acortar.link/u9BvXb
+https://t.ly/v6HJ6
 ```
 
 ## ☕ Apoya el Proyecto
