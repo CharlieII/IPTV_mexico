@@ -5,10 +5,11 @@
     Fuentes oficiales, legales y de libre acceso.
   </p>
 
-  <img src="https://img.shields.io/badge/Estado-Activo-success?style=for-the-badge" alt="Estado Activo">
-<img src="https://img.shields.io/badge/Canales-TV%20Abierta-blue?style=for-the-badge" alt="TV Abierta">
-<img src="https://img.shields.io/badge/Formato-M3U%2FM3U8-orange?style=for-the-badge" alt="Formato M3U">
-<img src="https://img.shields.io/badge/Licencia-Dominio%20P%C3%BAblico-lightgrey?style=for-the-badge" alt="Licencia">
+  <img src="https://img.shields.io/badge/Estado-Activo-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Estado Activo">
+  <img src="https://img.shields.io/badge/Canales-TV%20Abierta-blue?style=for-the-badge&logo=tvtime&logoColor=white" alt="TV Abierta">
+  <img src="https://img.shields.io/badge/Formato-M3U%2FM3U8-orange?style=for-the-badge&logo=vlcmediaplayer&logoColor=white" alt="Formato M3U">
+  <img src="https://img.shields.io/badge/Licencia-Dominio%20P%C3%BAblico-lightgrey?style=for-the-badge&logo=creativecommons" alt="Licencia">
+  <img src="https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
 </div>
 
